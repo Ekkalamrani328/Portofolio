@@ -1,4 +1,4 @@
-# Portofolio
+# profile
 
 ## ✨ Fitur
 - Desain responsif dan ringan
